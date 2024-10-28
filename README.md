@@ -1,23 +1,19 @@
 # Day 1
 ## Topics Covered
-1. **[Topic 1: Title]**
+1. **Touch Typing**
    - **Key Points:**
-     - [Brief description or key takeaway]
-     - [Another important point]
-   - **Resources:**
-     - [Link to articles, videos, or tutorials]
+     - [Touch typing allowed me to type without looking at the keyboard, significantly improving typing speed and efficiency]
+     - [By using all fingers and adopting proper hand positioning, touch typing helped me reduce strain on the hands]
 
-2. **[Topic 2: Title]**
+2. **[Linkedin profile updation]**
    - **Key Points:**
-     - [Brief description or key takeaway]
-     - [Another important point]
-   - **Resources:**
-     - [Link to articles, videos, or tutorials]
+     - [Learned about the importance of a well-built Linkedin profile.]
+     - [Important points on job hunting.]
 
-3. **[Topic 3: Title]**
+3. **[GitHub and Github Pages]**
    - **Key Points:**
-     - [Brief description or key takeaway]
-     - [Another important point]
+     - [Learned how to make a repository and to add a readme.md file.]
+     - [GitHub pages helps to make websites where we can showcase projects]
    - **Resources:**
      - [Link to articles, videos, or tutorials]
 
