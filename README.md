@@ -14,6 +14,8 @@
        
 3. **Overleaf**
      * Helped me to make a professional resume.
+ 4. **Visual Studio Code**
+     * helps to generate real time output while coding.      
    
 ## Conclusion
 Overall, today was a productive day of learning, and I look forward to building on this knowledge in the coming days.
