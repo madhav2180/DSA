@@ -17,7 +17,52 @@
  4. **Visual Studio Code**
      * helps to generate real time output while coding.      
    
-## Conclusion
-Overall, today was a productive day of learning, and I look forward to building on this knowledge in the coming days.
+
+
+
+# Day 2
+1. **JIRA**
+
+
+
+# Day 3
+## Topics Covered
+1. **History of AI**
+     * Learned about the different periods of AI like winter of Ai and the boom of AI.
+     * Learned
+
+2. **Alan Turning and Turing Test**
+     * Founder of AI.
+     * Turing Test .
+
+3. **Neural Networks and Neuroplasticity**
+     * perceptron- Single layer of neuron model.
+     * Neural Network - brain like structure.
+     * Applications of perceptron.
+       
+3. **Machine Learning **
+     * Field of AI giving computers the ability to learn like humans.
+       
+4. **Learning models**
+     * Supervised Learning- with labels  - Classsification, Regression.
+     * Unsupervised learning - without labels -  Association,Clustering.
+
+5. **Programming Languages**
+     * Compiled Language.
+     * Inerpreted Language.
+
+6. **Python**
+     * Libraries like numPy and pandas.
+       
+
+7. **Data Science life cycle**
+     * Different processes in Data Science .
+              
+
+
+
+
+
+
 
 
