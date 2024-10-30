@@ -29,11 +29,11 @@
 ## Topics Covered
 1. **History of AI**
      * Learned about the different periods of AI like winter of Ai and the boom of AI.
-     * Learned
+     * Learned about different founders and years relevent in the history of AI.
 
 2. **Alan Turning and Turing Test**
      * Founder of AI.
-     * Turing Test .
+     * Turing Test - If a human is interacting with a computer and another human unaware of which is which and cannot tell the difference between them, then we have achived true artificial intelligence .
 
 3. **Neural Networks and Neuroplasticity**
      * perceptron- Single layer of neuron model.
@@ -49,14 +49,14 @@
 
 5. **Programming Languages**
      * Compiled Language.
-     * Inerpreted Language.
+     * Interpreted Language.
 
 6. **Python**
-     * Libraries like numPy and pandas.
+     * Learned about different ibraries like numPy and pandas.
        
 
 7. **Data Science life cycle**
-     * Different processes in Data Science .
+     * Learned about different processes in Data Science .
               
 
 
