@@ -40,7 +40,7 @@
      * Neural Network - brain like structure.
      * Applications of perceptron.
        
-3. **Machine Learning **
+3. **Machine Learning**
      * Field of AI giving computers the ability to learn like humans.
        
 4. **Learning models**
