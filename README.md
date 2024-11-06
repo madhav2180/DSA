@@ -57,7 +57,88 @@
 
 7. **Data Science life cycle**
      * Learned about different processes in Data Science .
-              
+  
+# Day 4
+## Topics Covered
+**Measures of central tendency**
+*Mean* - average
+*Median*- middle value
+*Mode* - most repeated value
+*Percentile* - median is the 50th percentile 
+*Quartiles* -
+ Q1- 25th percentile
+Q2- 50th percentile
+Q3- 75th percentile
+
+IQR = Q3-Q1
+LB = Q1-1.5*IQR
+UB = Q3+1.5*IQR
+
+Interquartile range
+Min
+Max
+
+**Finding outliers using Quartiles** 
+
+Measures of dispersion
+Range
+Standard deviation
+Variance & Standard deviation  (x-)2N
+Z score -    x- 
+Confidence interval
+
+
+**Correlation coefficient(-1 to 1)**
+*Pearson correlation coefficient*
+*Sphearman’s rank correlation*
+
+**Scatter plot**
+Visually inspecting correlation b/w two variables
+
+
+**Distribution Curve , Histogram**
+frequency / relative frequency
+
+**Probability density function**
+Cumulative distribution function
+Advance compared to pdf 
+
+
+**Boxplot**
+Shows median(Q2),Q1,Q3,lowerbound,upperbound,
+Outliers 
+
+
+# Day 5
+## Topics Covered
+The probability of getting heads or tails in a coin toss is 0.5 because the cumulative sum will reach a value which is near to 0.5.
+
+Gaussian distribution - mean value can be anywhere. Not necessarily zero centred.
+Nomal distribution - special case of gaussian distribution. Zero centred mean value.
+
+Sampling 
+
+Population - entire set
+Sample - a portion of the set
+
+**Central limit theorm** - https://onlinestatbook.com/stat_sim/sampling_dist/
+Sampling distribution 
+
+Null hypothesis - operations does not have effect
+Alternate hypothesis - operations have effect
+
+Significance level - even a small p has significance.
+
+Z = x -   /N
+ x  sample mean
+   population 
+  population of SD
+
+t =  x -     s/N
+ s sample’s SD
+
+https://datatab.net/tutorial/hypothesis
+
 
 
 
