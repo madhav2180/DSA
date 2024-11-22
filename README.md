@@ -139,7 +139,8 @@ t =  x -     s/N
 
 https://datatab.net/tutorial/hypothesis
 
-#SQL
+# SQL NOTES 
+## Topics Covered
 Why databases
 Alternatives: CSV, txt,xlsx
 DB makes life simpler. easier and faster
