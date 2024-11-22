@@ -139,6 +139,66 @@ t =  x -     s/N
 
 https://datatab.net/tutorial/hypothesis
 
+#SQL
+Why databases
+Alternatives: CSV, txt,xlsx
+DB makes life simpler. easier and faster
+Done without much programming background
+Backup data at multiple places
+Oracle, MySQL,SQLServer
+
+Relational and non-relational databases
+Relational - stores data in structured tables with rows and columns using a predefined schema
+Non-relational MongoDB offers more flexibility by storing data in various formats, such as doc, key-value pairs, or graphs—less structured and more dynamic.
+Relational datasets are ideal for highly structured data
+Non-relational excels in handling large volumes of diverse data with rapid scalability
+
+Tables
+Movie_id,movie_name,actor_id,actor_name,gender
+1	Spiderman,2009,aid_1, name, Male
+2	Spiderman,2009,aid_2, name, Male
+Here only some parts of the data changes, other parts are copied.
+
+Table1 : movie_id,movie_name,year
+Table2 : movie_id,actor_id,actor_name,gender
+Table3 : movie_id,actor_id
+Here movie_id and actor_id are unique
+
+There is a primary key associated with each table
+
+Why SQL
+Structured Query Language
+Begin - 1970 - IBM
+Create
+Read
+Update
+Delete
+
+
+Not a general-purpose programming language, is domain specific.
+general-purpose programming language - create web apps,games,OS etc.
+Python C++ are procedural programming language,step by step instruction provided.
+Declarative programming language
+
+Execution
+Parser,compiler
+Parser: understand query
+Compiler: optimizer (optimaal way to generate) & generated code.
+
+IMDB dataset
+Website owned by amazon.com : has data on movies
+388,269 movies
+817,718 actors
+86,880 directors
+Tables
+Schema: all tables and relationship
+
+Logical operators
+AND,OR,NOT,ALL,ANY,,BETWEEN,EXIST,,IN,LIKE,SOME
+
+
+
+
 
 
 
