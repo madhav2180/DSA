@@ -198,6 +198,62 @@ Logical operators
 AND,OR,NOT,ALL,ANY,,BETWEEN,EXIST,,IN,LIKE,SOME
 
 
+# Day 20
+## Topics Covered
+Datatypes
+Continuous 
+Discrete
+Classification and Regression
+
+Visualization
+Matplotlob
+Figures
+Axis labels
+Sub figures
+Ticks
+Seaborn 
+
+Types of plot
+Line plot
+Bar chart
+Pie charts
+Histogram
+CDF plot
+KDE plot
+Scatter plot
+With colour
+Heat maps
+Box plots
+    
+
+
+
+Numeric - int, float - any number types are called continuous.
+                                If it is a defined set of variables it is called discrete.
+Categorical - fixed values.
+Input columns are called features and predicted columns are called labels.
+
+Feature Extraction and Transformation
+
+Features and Labels
+Text data
+BoW
+TFIDF
+Feature Engineering
+Feature orthogonality - different info - combining adds value. Better for training.
+Cosine similarity - u.v/ |u|.|v|
+
+Feature colinearity - f1 , f2 = 1.5f1, f3   - f1 and f2 are colinear. 
+Feature slicing - (height, weight,hair colour, eye colour, country)-> features. There are only two countries. Not equally distributed. If this is given as training data,accuracy will decrease for single model. Dataset can be divided into D1 And D2. separate models are built for two different datasets. 
+
+ Indicator variable
+Feature binning - adds a new column using certain XOR conditions.  This is called indicator variable. When this is done on a multiclass, called feature binning.
+
+Mathematical transforms
+Logarithms
+FFT&STFT
+
+
 
 
 
